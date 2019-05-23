@@ -1,0 +1,6 @@
+[
+	{
+		"name":"flask-hello"
+		"ImageURI":"937731529227.dkr.ecr.us-east-2.amazonaws.com/hello-flask:latest"
+	}
+]
